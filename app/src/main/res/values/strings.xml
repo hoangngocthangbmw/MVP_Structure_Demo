@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MVP_Demo_ListUserGitHub</string>
+    <string name="hint_name">Input username</string>
+    <string name="hint_limit_user">Limit username</string>
+    <string name="btn_search">Search</string>
+</resources>
